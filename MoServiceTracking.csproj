@@ -172,9 +172,9 @@
     <Compile Include="Migrations\201801241805015_AddCountryTable.Designer.cs">
       <DependentUpon>201801241805015_AddCountryTable.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201801242229140_AddCityTableSeedCities.cs" />
-    <Compile Include="Migrations\201801242229140_AddCityTableSeedCities.Designer.cs">
-      <DependentUpon>201801242229140_AddCityTableSeedCities.cs</DependentUpon>
+    <Compile Include="Migrations\201801250855450_AddCityTableAndSeedCitiesIntoDatabase.cs" />
+    <Compile Include="Migrations\201801250855450_AddCityTableAndSeedCitiesIntoDatabase.Designer.cs">
+      <DependentUpon>201801250855450_AddCityTableAndSeedCitiesIntoDatabase.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Address.cs" />
@@ -290,8 +290,8 @@
     <EmbeddedResource Include="Migrations\201801241805015_AddCountryTable.resx">
       <DependentUpon>201801241805015_AddCountryTable.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201801242229140_AddCityTableSeedCities.resx">
-      <DependentUpon>201801242229140_AddCityTableSeedCities.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201801250855450_AddCityTableAndSeedCitiesIntoDatabase.resx">
+      <DependentUpon>201801250855450_AddCityTableAndSeedCitiesIntoDatabase.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

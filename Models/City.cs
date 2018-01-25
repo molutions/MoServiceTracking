@@ -9,6 +9,8 @@ namespace MoServiceTracking.Models
     {
         public int Id { get; set; }
         public int CountryId { get; set; }
+        //City Number to map to counties if nedded
+        public int PlateNum { get; set; }
         public string CityTitle { get; set; }
         public string CityDesc { get; set; }
         public string Notes { get; set; }

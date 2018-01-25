@@ -56,3 +56,4 @@
 \\Mac\Home\Desktop\Projects\MoServiceTracking\MoServiceTracking\obj\Debug\MoServiceTracking.Migrations.InitialMigrationWithoutDomainClasses.resources
 \\Mac\Home\Desktop\Projects\MoServiceTracking\MoServiceTracking\obj\Debug\MoServiceTracking.csproj.GenerateResource.Cache
 \\Mac\Home\Desktop\Projects\MoServiceTracking\MoServiceTracking\obj\Debug\MoServiceTracking.Migrations.AddCountryTable.resources
+\\Mac\Home\Desktop\Projects\MoServiceTracking\MoServiceTracking\obj\Debug\MoServiceTracking.Migrations.AddCityTableAndSeedCitiesIntoDatabase.resources
